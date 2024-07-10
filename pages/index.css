@@ -145,8 +145,6 @@
 
 .recipes__videos {
   gap: 40px;
-  /* max-width: 480px;
-  max-height: 273px; */
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -166,6 +164,7 @@
 .recipes__iframe {
   max-width: 480px;
   max-height: 273px;
+  border: none;
 }
 
 
