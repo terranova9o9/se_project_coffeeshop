@@ -11,7 +11,7 @@
   .form__label {
     margin-bottom: 32px;
     display: block;
-    font-family: Inter, Arial, "sans-serif";
+    font-family: Inter, Arial, sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -21,7 +21,7 @@
   .form__label_type_checkbox {
     display: flex;
     justify-content: center;
-    gap: 32px;
+    gap: 12px;
   }
 
  .form__label_type_checkbox:last-child {
@@ -36,7 +36,7 @@
     margin-top: 8px;
     border-radius: 4px;
     height: 60px;
-    font-family: Inter, Arial, "sans-serif";
+    font-family: Inter, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -47,7 +47,7 @@
   }
 
   .form__input::placeholder {
-    font-family: Inter, Arial, "sans-serif";
+    font-family: Inter, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -60,7 +60,7 @@
     width: 100%;
     padding: 0;
     margin-bottom: 32px;
-    font-family: Inter, Arial, "sans-serif";
+    font-family: Inter, Arial, sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
